@@ -1,0 +1,26 @@
+{
+  "name": "TestingJqueryPlugin",
+  "title": "Testing Jquery Plugin",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hybridanime49/gruntTest",
+  "author": {
+    "name": "hybridanime49",
+    "email": "hybridanime49@yahoo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hybridanime49/gruntTest.git"
+  },
+  "bugs": "https://github.com/hybridanime49/gruntTest/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hybridanime49/gruntTest/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
